@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.8cc85522.css","mappings":"AAKA,kDAFY,CAEsB,YAAY,CAC9C,eAJW","sources":["myStyle-2.scss"],"sourcesContent":["@charset 'utf-8';\r\n\r\n$purpleBg: purple;\r\n$rainbowBG: linear-gradient( orange, yellowgreen );\r\n\r\nsection { background: $rainbowBG; padding:30pt;}\r\nh1 {color: $purpleBg;}"],"names":[],"sourceRoot":""}
